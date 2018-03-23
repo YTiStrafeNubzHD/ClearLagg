@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/ClearLagg.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/ClearLagg)
+
 ClearLagg
 =========
 
